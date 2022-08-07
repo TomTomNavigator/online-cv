@@ -40,13 +40,16 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Climbing
+      - item: DIY / Handyman
         link:
 
-      - item: Snowboarding
+      - item: Skiing
         link:
 
       - item: Cooking
+        link:
+
+      - item: 3D Printing
         link:
 
 career-profile:
@@ -59,64 +62,39 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor in Business Administration (BBA)
+      university: Fachhochschule Südwestfalen
+      time: 2009 - 2012
     - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      university: IT Fachberater für Integrierte Systeme (IHK Aprenticeship IT Engineering)
+      time: 2009 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Fachberater / Fachinformatiker Integrierte Systeme @ Siemens AG / Atos 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Solutions Engineer
+      time: 2020 - Present
+      company: Okta, Munich
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        xx
+        xx
+        xx
+          - Presidents Club FY22
+          - Recruiting for PreSales Academy Central & Eastern Europe Candidates
+    - role: Senior Solutions Engineer
+      time: 2019 - 2020
+      company: AvePoint, Munich
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Working as a Senior Sales / Solutions Engineer & Microsoft P-TSP at AvePoint in Munich.
+        I love technology, trying out new software, exploring new features, improving my own digital workflows and productivity - and sharing it with others. I am a Trusted Advisor for AvePoint and Microsoft Software Products. Working as a Senior Sales Solution Engineer & Microsoft P-TSP at AvePoint in Munich. I love technology, trying out new software, exploring new features, improving my own digital workflows and productivity - and sharing it with others. I am a Trusted Advisor for AvePoint and Microsoft Software Products. 
+          - xx
+          - xx
+    - role: Technical Solutions Professional
+      time: 2016 - 2019
+      company: AvePoint, Munich
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        xx
+        xx
+        xx
           - Bullet point
           - Bullet point
 projects:
@@ -172,19 +150,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PreSales
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: xx
         level: 98%
 
-      - name: Angular
+      - name: PreSales
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: xx
         level: 95%
 
-      - name: Ruby on Rails
+      - name: xx
         level: 85%
 
       - name: Sketch & Photoshop
