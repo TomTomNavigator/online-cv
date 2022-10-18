@@ -65,11 +65,11 @@ education:
     - degree: Bachelor in Business Administration (BBA)
       university: Fachhochschule Südwestfalen
       time: 2009 - 2012
-    - degree: BSc in Applied Mathematics
-      university: IT Fachberater für Integrierte Systeme (IHK Aprenticeship IT Engineering)
+    - degree: IT Fachberater für Integrierte Systeme (IHK Aprenticeship IT Engineering)
+      university: 
       time: 2009 - 2012
       details: |
-        Fachberater / Fachinformatiker Integrierte Systeme @ Siemens AG / Atos 
+        Siemens AG / Atos IT Solutions & Services GmbH
 experiences:
     - role: Senior Solutions Engineer
       time: 2020 - Present
