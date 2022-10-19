@@ -66,10 +66,9 @@ education:
       university: Fachhochschule Südwestfalen
       time: 2009 - 2012
     - degree: IT Fachberater für Integrierte Systeme (IHK Aprenticeship IT Engineering)
-      university: 
+      university: Siemens AG / Atos IT Solutions & Services GmbH
       time: 2009 - 2012
-      details: |
-        Siemens AG / Atos IT Solutions & Services GmbH
+      details: xx
 experiences:
     - role: Senior Solutions Engineer
       time: 2020 - Present
