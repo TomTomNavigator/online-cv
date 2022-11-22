@@ -101,7 +101,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I like to tinker around with Hard- and Software. I always had a liking for NAS, embedded systems and ThinClients.
+      I like to tinker around with Hard- and Software. I always had a liking for NAS (NSLU2), embedded systems and ThinClients. Also always open to try new things such as setting up a MIM proxy (evilginx).
+      Enjoying to go to meetups (meetup.com) to get to know new people and learn new technology and just connect.
     assignments:
       - title: 3D-Printing
         link: "#"
@@ -109,7 +110,7 @@ projects:
 
       - title: Hardware & Home-Automation, Proxmox Virtualization
         link: "#"
-        tagline: "Did you know that there are 4G USB-modem sticks with quad-core CPUs which can be flashed to be used as with a fully-featured Linux distribution?"
+        tagline: "Did you know that there are 4G USB-modem sticks with quad-core CPUs - which can be flashed to be used as with a fully-featured Linux distribution?"
 
 #      - title: Tempo
 #        link: "#"
