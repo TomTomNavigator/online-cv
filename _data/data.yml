@@ -43,13 +43,13 @@ sidebar:
       - item: DIY / Handyman
         link:
 
-      - item: Skiing
-        link:
-
-      - item: Cooking
+      - item: Skiing and Motorcycle
         link:
 
       - item: 3D Printing
+        link:
+
+      - item: Cooking
         link:
 
 career-profile:
@@ -57,7 +57,7 @@ career-profile:
     summary: |
        I started my journey in the IT world with 'dual studies' (apprenticeship and studies combined) at Siemens AG. After completion and a few years of application management for Microsoft SharePoint and Project Server at PSoD (Project Service on Demand) I took on a new challenge at AvePoint (ISV and Microsoft Partner) and started my career in the PreSales field. 
 I really enjoy doing PreSales - the combination of IT and problem solving, talking with people about business challenges is a very good combination for me as I am open minded and always (almost) positive. 
-With Okta I continued my journey in PreSales - connecting the right people to the right technology at the right time. I am working with all segments, recently more focused on Enterprise and Strategic accounts in the Central & Eastern Europe region.
+With Okta I continued my journey in PreSales - connecting the right people to the right technology at the right time. I am working with all segments, recently more focused on Enterprise and Strategic accounts in the Central & Eastern Europe region. I received plenty of great feedback from prospects and customers for my unique way of doing things (e. g. Whiteboarding, approaching prospects) - backed by awards (read below).
 education:
     - degree: Bachelor in Business Administration (BBA)
       university: Fachhochschule Südwestfalen
@@ -71,15 +71,15 @@ experiences:
       time: 2020 - Present
       company: Okta, Munich
       details: |
-        Senior Solutions Engineer for Okta's Identity Cloud, focussing on Enterprise customers. 
-          - Recruiting for PreSales Academy Central & Eastern Europe Candidates
-          - Interviewing candidates in Tech Challenges and peer interviews
-          - Microsoft SME (Subject Matter Expert) 
+        Senior Solutions Engineer for Okta's Identity Cloud (SaaS), focussing on Enterprise customers. Despite the 'normal' every day PreSales business which incluces 
+          - Recruited & hired PreSales Academy Central & Eastern Europe Candidates
+          - Interviewing candidates in Tech Challenges (tech evaluation) and peer interviews
+          - Microsoft SME (Subject Matter Expert) in Microsoft Compete scenarios
           - Mentor & onboarding buddy for numerous SE's in different roles (Alliances & Core SEs)
           
         
         Awards & Achievments:
-          - EMEA PreSales Rockstar Award - October 2022
+          - EMEA PreSales Rockstar Award - October 2022 - FY23
           - Presidents Club - FY22
           - Technical Hot Shot Award CEE - FY22
           - Peer Recognition Award - FY22
@@ -87,19 +87,18 @@ experiences:
       time: 2019 - 2020
       company: AvePoint, Munich
       details: |
-        Working as a Senior Sales / Solutions Engineer & Microsoft P-TSP at AvePoint in Munich.
-        I love technology, trying out new software, exploring new features, improving my own digital workflows and productivity - and sharing it with others. I am a Trusted Advisor for AvePoint and Microsoft Software Products. Working as a Senior Sales Solution Engineer & Microsoft P-TSP at AvePoint in Munich. I love technology, trying out new software, exploring new features, improving my own digital workflows and productivity - and sharing it with others. I am a Trusted Advisor for AvePoint and Microsoft Software Products. 
-          - xx
-          - xx
+        Worked as a Senior Sales / Solutions Engineer & Microsoft P-TSP at AvePoint in Munich. Deep knopwledge of Microsoft M365 products - focused on Cloud Backup for Microsoft and Salesforce, Cloud Governance Solutions but as well on-premises SharePoint governance & backup solutions. Trusted Advisor for AvePoint and Microsoft Software Products. 
+        
+        Achievments:
+          - #2 Sales Engineer Worldwide in 2019 (over 200% achievement)
+          - #1 Sales Engineer Worldwide in 2018 (over 200% achievement)
+          - #2 Sales Engineer Worldwide in 2018 (over 300% achievement)
     - role: Technical Solutions Professional
       time: 2016 - 2019
       company: AvePoint, Munich
       details: |
-        xx
-        xx
-        xx
-          - Bullet point
-          - Bullet point
+        Started my journey PreSales. Quickly adapted sales frameworks and learned how to be successfull as a Solutions Engineer. Still focused on on-premises deployments of our AvePoint DocAve Management Software for Microsoft SharePoint. Growing knowledge to Microsoft Cloud deployments, protect via the AvePoint Online Services SaaS solutions. Adopted change to Subscription and ARR solution selling. 
+
 projects:
     title: Projects
     intro: >
