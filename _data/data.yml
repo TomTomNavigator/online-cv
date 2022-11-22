@@ -55,9 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       I started my journey in the IT world with 'dual studies' (apprenticeship and studies combined) at Siemens AG. After completion and a few years of application management for Microsoft SharePoint and Project Server at PSoD (Project Service on Demand) I took on a new challenge at AvePoint (ISV and Microsoft Partner) and started my career in the PreSales field. 
-I really enjoy doing PreSales - the combination of IT and problem solving, talking with people about business challenges is a very good combination for me as I am open minded and always (almost) positive. 
-With Okta I continued my journey in PreSales - connecting the right people to the right technology at the right time. I am working with all segments, recently more focused on Enterprise and Strategic accounts in the Central & Eastern Europe region. I received plenty of great feedback from prospects and customers for my unique way of doing things (e. g. Whiteboarding, approaching prospects) - backed by awards (read below).
+       I started my journey in the IT world with 'dual studies' (apprenticeship and studies combined) at Siemens AG. After completion and a few years of application management for Microsoft SharePoint and Project Server at PSoD (Project Service on Demand) I took on a new challenge at AvePoint (ISV and Microsoft Partner) and started my career in the PreSales field. I really enjoy doing PreSales - the combination of IT and problem solving, talking with people about business challenges is a very good combination for me as I am open minded and always (almost) positive. With Okta I continued my journey in PreSales - connecting the right people to the right technology at the right time. I am working with all segments, recently more focused on Enterprise and Strategic accounts in the Central & Eastern Europe region. I received plenty of great feedback from prospects and customers for my unique way of doing things (e. g. Whiteboarding, approaching prospects) - backed by awards (read below).
 education:
     - degree: Bachelor in Business Administration (BBA)
       university: Fachhochschule Südwestfalen
@@ -77,7 +75,6 @@ experiences:
           - Microsoft SME (Subject Matter Expert) in Microsoft Compete scenarios
           - Mentor & onboarding buddy for numerous SE's in different roles (Alliances & Core SEs)
           
-        
         Awards & Achievments:
           - EMEA PreSales Rockstar Award - October 2022 - FY23
           - Presidents Club - FY22
@@ -98,7 +95,6 @@ experiences:
       company: AvePoint, Munich
       details: |
         Started my journey PreSales. Quickly adapted sales frameworks and learned how to be successfull as a Solutions Engineer. Still focused on on-premises deployments of our AvePoint DocAve Management Software for Microsoft SharePoint. Growing knowledge to Microsoft Cloud deployments, protect via the AvePoint Online Services SaaS solutions. Adopted change to Subscription and ARR solution selling. 
-
 projects:
     title: Projects
     intro: >
