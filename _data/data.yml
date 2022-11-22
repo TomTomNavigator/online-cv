@@ -101,34 +101,32 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I like to tinker 
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I like to tinker around with Hard- and Software. I always had a liking for NAS, embedded systems and ThinClients.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: 3D-Printing
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Upgrading the hardware on my Ender3 and tinkering around with Klipper & Fluidd (alternative firmware)"
 
-      - title: Tempo
+      - title: Hardware & Home-Automation, Proxmox Virtualization
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Did you know that there are 4G USB-modem sticks with quad-core CPUs which can be flashed to be used as with a fully-featured Linux distribution?"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+ #     - title: Delta
+ #       link: "#"
+ #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      I post irregularly on my blog at https://thomasheinz.net - most of the time technical topics.
+      I post irregularly on my blog at <a href="https://thomasheinz.net" target="_blank" rel="nofollow">https://thomasheinz.net</a> - most of the time technical topics.
 #    papers:
 #      - title: The Art of Computer Programming
 #        link: "#"
