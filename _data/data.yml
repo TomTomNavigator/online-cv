@@ -73,7 +73,7 @@ education:
       details: xx
 experiences:
     - role: Team Lead Sales Engineering Commercial CEE & Switzerland & Senior Solutions Engineer
-          time: Feb 2022 - Present
+          time: 2022 - Present
       company: Okta, Munich
       details: |
         Startin into Leadership with an official position and title.
@@ -83,7 +83,7 @@ experiences:
       time: 2020 - Present
       company: Okta, Munich
       details: |
-        Senior Solutions Engineer for Okta's Identity Cloud (SaaS), focussing on Enterprise customers. Despite the 'normal' every day PreSales business I invested in:
+        Senior Solutions Engineer for Okta's Identity Cloud (SaaS), focusing on Enterprise customers. Despite the 'normal' every day PreSales business I invested in:
           - Recruited & hired PreSales Academy Central & Eastern Europe Candidates
           - Interviewing candidates in Tech Challenges (tech evaluation) and peer interviews
           - Microsoft SME (Subject Matter Expert) in Microsoft Compete scenarios
@@ -92,6 +92,7 @@ experiences:
           
         Awards & Achievments:
           - Presidents Club - FY23
+          - Lead SE in the biggest Workforce deal in the CEE region (1.5M ARR)
           - EMEA PreSales Rockstar Award - FY23
           - Presidents Club - FY22
           - Technical Hot Shot Award CEE - FY22
@@ -157,15 +158,15 @@ publications:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+#    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: PreSales
-        level: 98%
-
-      - name: MEDDICC
-        level: 80%
+#    toolset:
+#      - name: PreSales
+#        level: 98%
+#
+#      - name: MEDDICC
+#        level: 80%
 
 #      - name: PreSales
 #        level: 98%
