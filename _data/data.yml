@@ -72,6 +72,13 @@ education:
       time: 2009 - 2012
       details: xx
 experiences:
+    - role: Team Lead Sales Engineering Commercial CEE & Switzerland & Senior Solutions Engineer
+          time: Feb 2022 - Present
+      company: Okta, Munich
+      details: |
+        Startin into Leadership with an official position and title.
+          - leading a team of 5 SEs
+          - defining new ways of async & remote work with Monday morning checkings (Slack) and Lightning Talks (Zoom)
     - role: Senior Solutions Engineer
       time: 2020 - Present
       company: Okta, Munich
@@ -81,8 +88,10 @@ experiences:
           - Interviewing candidates in Tech Challenges (tech evaluation) and peer interviews
           - Microsoft SME (Subject Matter Expert) in Microsoft Compete scenarios
           - Mentor & onboarding buddy for numerous SE's in different roles (Alliances & Core SEs)
+        A lot of feedback from peers and Managers in other regions did start my journey into Leadership. 
           
         Awards & Achievments:
+          - Presidents Club - FY23
           - EMEA PreSales Rockstar Award - FY23
           - Presidents Club - FY22
           - Technical Hot Shot Award CEE - FY22
