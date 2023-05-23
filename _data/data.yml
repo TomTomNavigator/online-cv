@@ -73,14 +73,14 @@ education:
       details: xx
 experiences:
     - role: Team Lead Sales Engineering Commercial CEE & Switzerland & Senior Solutions Engineer
-          time: 2022 - Present
+      time: Feb 2023 - Present
       company: Okta, Munich
       details: |
         Startin into Leadership with an official position and title.
           - leading a team of 5 SEs
           - defining new ways of async & remote work with Monday morning checkings (Slack) and Lightning Talks (Zoom)
     - role: Senior Solutions Engineer
-      time: 2020 - Present
+      time: March 2020 - Present
       company: Okta, Munich
       details: |
         Senior Solutions Engineer for Okta's Identity Cloud (SaaS), focusing on Enterprise customers. Despite the 'normal' every day PreSales business I invested in:
