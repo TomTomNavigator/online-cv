@@ -72,11 +72,11 @@ education:
       time: 2009 - 2012
       details: xx
 experiences:
-    - role: Team Lead Sales Engineering Commercial CEE & Switzerland & Senior Solutions Engineer
+    - role: Team Lead Sales Engineering Commercial CEE
       time: Feb 2023 - Present
       company: Okta, Munich
       details: |
-        Startin into Leadership with an official position and title.
+        Starting into Leadership with an official position and title.
           - leading a team of 5 SEs
           - defining new ways of async & remote work with Monday morning checkings (Slack) and Lightning Talks (Zoom)
     - role: Senior Solutions Engineer
