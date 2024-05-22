@@ -72,8 +72,13 @@ education:
       time: 2009 - 2012
       details: xx
 experiences:
-    - role: Team Lead Sales Engineering Commercial CEE
-      time: Feb 2023 - Present
+    - role: Sr Manager Solutions Engineering Central & Eastern Europe
+      time: Feb 2024 - Present
+      company: Okta, Munich
+      details: |
+        Managing currently a team of 7 people, including Core SEs, Specialists and Architects. 
+    - role: Team Lead Sales Engineering CEE
+      time: Feb 2023 - Feb 2024
       company: Okta, Munich
       details: |
         Starting into Leadership with an official position and title.
