@@ -3,284 +3,196 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
-  # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # Profile information
+    name: Thomas Heinz
+    tagline: Sr Manager, Solutions Engineering CEE
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    # Sidebar links
+    email: hallo@thomasheinz.net
+    phone: 
+    timezone: Europe/Berlin Timezone
+    citizenship: German
+    website: thomasheinz.net #do not add http://
+    linkedin: thomas-heinz
+    xing: 
+    github: tomtomnavigator
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@tomtomnavigator'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
+    languages:
+      - idiom: German
+        level: Native
 
-    - idiom: French
-      level: Professional
+      - idiom: English
+        level: Professional
 
-    - idiom: Spanish
-      level: Professional
+      - idiom: French
+        level: Beginner
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
+    interests:
+      - item: DIY / Handyman
+        link:
 
+      - item: Skiing and Motorcycle
+        link:
 
-    - item: Snowboarding
-      link:
+      - item: 3D Printing
+        link:
 
-
-    - item: Cooking
-      link:
-
+      - item: Cooking
+        link:
 
 career-profile:
-  title: Career Profile
-  summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    title: Career Profile
+    summary: |
+       I started my journey in the IT world with 'dual studies' (apprenticeship and studies combined) at Siemens AG. 
+       After completion and a few years of application management for Microsoft SharePoint and Project Server at PSoD (Project Service on Demand) I took on a new challenge at AvePoint (ISV and Microsoft Partner) and started my career in the PreSales field. 
+       
+       I really enjoy doing PreSales - the combination of IT and problem solving, talking with people about business challenges is a very good combination for me as I am open minded and always (almost) positive. 
+       
+       With Okta I continued my journey in PreSales - connecting the right people to the right technology at the right time. I am working with all segments, recently more focused on Enterprise and Strategic accounts in the Central & Eastern Europe region. I received plenty of great feedback from prospects and customers for my unique way of doing things (e. g. Whiteboarding, approaching prospects) - backed by awards (read below).
+       
+       During the last years I began to mentor new hires and helped them onboard to their new role at Okta. I also took over opportunities such as the first PreSales Academy in EMEA (people switching careers or their first job - 6 months onboarding program). I found this very rewarding to help and see people grow - that is what sparked my eandeavor to grow into leadership. Ulimately achieving the "Tech Win" is our main goal in Solutions Engineering - during my time in Leadership I drove a few projects in regards to tracking progress in Opportunities (Salesforce) and also on how to track time, activities and engagements in an easy way.
+
+       I am a member in the Munich PreSales Group as well since some years of PreSales Collective. 
 education:
-  title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+    - degree: Bachelor in Business Administration (BBA)
+      university: Fachhochschule Südwestfalen
+      time: 2009 - 2012
+    - degree: IT Fachberater für Integrierte Systeme (IHK Aprenticeship IT Engineering)
+      university: Siemens AG / Atos IT Solutions & Services GmbH
+      time: 2009 - 2012
+      details: xx
 experiences:
-  title: Experiences
-  info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    - role: Sr Manager Solutions Engineering, Central & Eastern Europe
+      time: Feb 2024 - Present
+      company: Okta, Munich
+      details: |
+        Managing a diverse team of 7 people from 4 countries in a hybrid team setting. 
+        Team consisting of Core SEs, Specialists and Architects for multiple segments 
+          - a) whole EMEA (Architect) 
+          - b) Netherlands and Germany (Specialists) and 
+          - c) Central & Eastern Europe Enterprise and Commercial (Core SEs)
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
+        One recent highlight was delivering a session at ARRTist circus around "Shaping Your Spotlight: PreSales Career Development Done Right".
+        
+    - role: Team Lead Solutions Engineering, Central and Eastern Europe
+      time: Feb 2023 - Feb 2024
+      company: Okta, Munich
+      details: |
+        Starting into Leadership with an official position and title.
+          - leading a team of 5 SEs
+          - defining new ways of async & remote work with Monday morning checkings (Slack) and Lightning Talks (Zoom)
+    - role: Senior Solutions Engineer
+      time: March 2020 - Present
+      company: Okta, Munich
+      details: |
+        Senior Solutions Engineer for Okta's Identity Cloud (SaaS), focusing on Enterprise customers. With Okta you have a very broad technology stack to work with, be it working with APIs, 3rd party vendors and partners like ZScaler, Crowdstrike, Mimecast. Despite the 'normal' every day PreSales business I invested in:
+          - Recruited & hired PreSales Academy Central & Eastern Europe Candidates
+          - Interviewing candidates in Tech Challenges (tech evaluation) and peer interviews
+          - Microsoft SME (Subject Matter Expert) in Microsoft Compete scenarios
+          - Mentor & onboarding buddy for numerous SE's in different roles (Alliances & Core SEs)
+        A lot of feedback from peers and Managers in other regions did start my journey into Leadership. 
+          
+        Awards & Achievments:
+          - Presidents Club - FY23
+          - Lead SE in the biggest Workforce deal in the CEE region (1.5M ARR)
+          - EMEA PreSales Rockstar Award - FY23
+          - Presidents Club - FY22
+          - Technical Hot Shot Award CEE - FY22
+          - Peer Recognition Award - FY22
+    - role: Senior Solutions Engineer
+      time: 2019 - 2020
+      company: AvePoint, Munich
+      details: |
+        Worked as a Senior Sales / Solutions Engineer & Microsoft P-TSP at AvePoint in Munich. Deep knopwledge of Microsoft M365 products - focused on Cloud Backup for Microsoft and Salesforce, Cloud Governance Solutions but as well on-premises SharePoint governance & backup solutions. Trusted Advisor for AvePoint and Microsoft Software Products. 
+        
+        Achievments:
+          - #2 Sales Engineer worldwide in 2019 (over 200% achievement)
+          - #1 Sales Engineer worldwide in 2018 (over 200% achievement)
+          - #2 Sales Engineer worldwide in 2018 (over 300% achievement)
+    - role: Technical Solutions Professional
+      time: 2016 - 2019
+      company: AvePoint, Munich
+      details: |
+        Started my journey PreSales. Quickly adapted sales frameworks and learned how to be successfull as a Solutions Engineer. Still focused on on-premises deployments of our AvePoint DocAve Management Software for Microsoft SharePoint. Growing knowledge to Microsoft Cloud deployments, protect via the AvePoint Online Services SaaS solutions. Adopted change to Subscription and ARR solution selling. 
 projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Projects
+    intro: >
+      I like to tinker around with Hard- and Software. I always had a liking for NAS (NSLU2), embedded systems and ThinClients and use these in areas for which they were not designed. Also always open to try new things such as setting up a MIM proxy (evilginx). I am into homelabbing (Proxmox) and running plenty of virtualizied and containerized services for a bunch of self-hosted services. 
+      Enjoying to go to meetups (meetup.com) to get to know new people and learn new technology and just connect.
+    assignments:
+      - title: 3D-Printing
+        link: "#"
+        tagline: "Upgrading the hardware on my Ender3 and tinkering around with Klipper & Fluidd (alternative firmware)"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Hardware & Home-Automation, Proxmox Virtualization
+        link: "#"
+        tagline: "Did you know that there are 4G USB-modem sticks with quad-core CPUs - which can be flashed to be used as with a fully-featured Linux distribution?"
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+ #     - title: Delta
+ #       link: "#"
+ #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: Publications
+    intro: |
+      I post irregularly on my blog at <a href="https://thomasheinz.net" target="_blank" rel="nofollow">https://thomasheinz.net</a> - most of the time technical topics.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#skills:
+#    title: Skills &amp; Proficiency
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+#    toolset:
+#      - name: PreSales
+#        level: 98%
+#
+#      - name: MEDDICC
+#        level: 80%
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+#      - name: PreSales
+#        level: 98%
 
-      He is a great employee!
+#      - name: xx
+#        level: 95%
 
-skills:
-  title: Skills &amp; Proficiency
+#      - name: xx
+#        level: 85%
 
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+#      - name: Sketch & Photoshop
+#        level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
