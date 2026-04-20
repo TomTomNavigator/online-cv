@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Thomas Heinz
     tagline: Sr Manager, Solutions Engineering CEE
-    avatar: profile.png  # place your picture inside /assets/images/ and provide the filename here
+    avatar: thomas.png  # place your picture inside /assets/images/ and provide the filename here
 
     # Sidebar links
     email: hallo@thomasheinz.net
