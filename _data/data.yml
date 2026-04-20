@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: hallo@thomasheinz.net
     phone: 
-    timezone: Europe/Berlin Timezone
+    timezone: Europe/Berlin
     citizenship: German
-    website: thomasheinz.net #do not add http://
+    website: https://thomasheinz.net
     linkedin: thomas-heinz
     xing: 
     github: tomtomnavigator
