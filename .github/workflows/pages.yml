@@ -26,7 +26,11 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          gem install bundler -v 2.3.19
+          bundle _2.3.19_ install
 
       - name: Setup Pages
         id: pages
