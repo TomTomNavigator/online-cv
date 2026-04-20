@@ -12,106 +12,15 @@
   <style>
     body {
       padding: 0 !important;
-      background: #ffffff !important;
     }
-
     .wrapper {
       max-width: unset !important;
-      background: #ffffff !important;
-      box-shadow: none !important;
-      display: grid !important;
-      grid-template-columns: 28% 72% !important;
-    }
-
-    .sidebar-wrapper {
-      grid-column: 1 !important;
-      background: #f7f7f7 !important;
-      color: #333 !important;
-      min-height: 100vh;
-    }
-
-    .sidebar-wrapper a {
-      color: #333 !important;
-      text-decoration: none;
-    }
-
-    .sidebar-wrapper .profile-container {
-      padding: 16px 12px !important;
-      background: transparent !important;
-      text-align: center;
-    }
-
-    .sidebar-wrapper .avatar {
-      max-width: 60px !important;
-      margin-bottom: 8px !important;
-    }
-
-    .sidebar-wrapper .name {
-      font-size: 20px !important;
-      margin-bottom: 4px !important;
-      color: #111 !important;
-    }
-
-    .sidebar-wrapper .tagline {
-      font-size: 11px !important;
-      color: #666 !important;
-    }
-
-    .sidebar-wrapper .container-block {
-      padding: 12px !important;
-    }
-
-    .sidebar-wrapper .container-block-title {
-      font-size: 12px !important;
-      margin-bottom: 8px !important;
-      color: #111 !important;
-    }
-
-    .sidebar-wrapper .contact-list li,
-    .sidebar-wrapper .languages-list li,
-    .sidebar-wrapper .interests-list li {
-      margin-bottom: 6px !important;
-    }
-
-    .sidebar-wrapper .fas,
-    .sidebar-wrapper .fab,
-    .sidebar-wrapper .far {
-      color: #666 !important;
-      font-size: 12px !important;
-    }
-
-    .main-wrapper {
-      grid-column: 2 !important;
-      background: #ffffff !important;
-      padding: 18px 20px !important;
-    }
-
-    .main-wrapper .section {
-      margin-bottom: 22px !important;
-    }
-
-    .main-wrapper .section-title {
-      font-size: 15px !important;
-      margin-bottom: 10px !important;
-    }
-
-    .main-wrapper .time {
-      position: static !important;
-      display: block !important;
-      margin-top: 2px !important;
-      padding: 0 !important;
-    }
-
-    footer,
-    .print-button,
-    .pdf-button,
-    .d-print-none {
-      display: none !important;
     }
   </style>
   <body>
     <div class="wrapper">
       {% include sidebar.html %}
+
       <div class="main-wrapper">{{ content }}</div>
     </div>
     {% include scripts.html %}
