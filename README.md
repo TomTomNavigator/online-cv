@@ -26,7 +26,8 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://onli
 ## Installation
 
 * [Fork](https://github.com/sharu725/online-cv/fork) the repository;
-* Go to settings and set master branch as Github Pages source;
+* Enable GitHub Pages and select **GitHub Actions** as the source;
+* The included workflow will build and deploy the site on pushes to `master`;
 * Your new site should be ready at `https://<username>.github.io/online-cv/`;
 * Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
 
